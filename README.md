@@ -12,3 +12,7 @@ A game of ping pong, a simple two player game written in pygame.
 The game has 2 players. The first control is carried out using the keys w, s. At the second, use the up and down arrows (up, down)
 Each player has 3 lives displayed above each of them. If all lives are lost, the player loses,
 the text about the loss and winning is displayed. The game restarts after 3 seconds. (✿◡‿◡)
+# Планирование проекта
+![Image alt](https://github.com/XilaYdeNs/Ping-Pong/raw/main/mindmap.png)
+# Интерфейс игры 
+![Image alt](https://github.com/XilaYdeNs/Ping-Pong/raw/main/screenshot.png)
